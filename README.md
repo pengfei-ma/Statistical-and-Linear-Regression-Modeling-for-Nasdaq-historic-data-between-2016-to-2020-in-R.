@@ -1,0 +1,2 @@
+# Statistical-and-Linear-Regression-Modeling-for-Nasdaq-historic-data-between-2016-to-2020-in-R.
+The U.S. stock market was experiencing an unprecedented phenomenon, several fuses happened in 2020 but the price of three stock markets created another peak of history. In order to display the huge change of the U.S stock market, this project would choose the historic data for the past five years from 2016 to 2020 of Nasdaq stock market which was downloaded from Yahoo Finance. Statistical modeling and analysis will be applied to this data set. 
